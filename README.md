@@ -4,6 +4,11 @@ Entorno personalizado orientado a la ciberseguridad basado en Debian 12 (HackToo
 Se puede descargar en formato OVA desde el siguiente enlace de Google drive.
 
 https://drive.google.com/drive/folders/1S_DqYWMf7bqKR_g9H2O8EPPOriLWtf9p
+
+El Changelog con los cambios se puede ver en el siguiente enlace. 
+
+https://drive.google.com/drive/folders/1S_DqYWMf7bqKR_g9H2O8EPPOriLWtf9p
+
 # Ejecución
 Es compatible con la mayoría de software de virtualización (VMWare, Virtual Box, etc.)
 
