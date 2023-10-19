@@ -8,11 +8,6 @@ https://drive.google.com/drive/folders/1S_DqYWMf7bqKR_g9H2O8EPPOriLWtf9p
 # Ejecución
 Es compatible con la mayoría de software de virtualización (VMWare, Virtual Box, etc.)
 
-Algunas de las aplicaciones instaladas requieren escalar permisos con “sudo” para ello se pueden utilizar las siguientes credenciales.
-
-Usuario: hacktool
-
-Contraseña: hacktool
 # Imagenes
 ![Captura1](https://github.com/jon-souto/HackToolOS/blob/main/Captura1.png)
 ![Captura2](https://github.com/jon-souto/HackToolOS/blob/main/Captura2.png)
